@@ -15,7 +15,7 @@ This project leverages Generative AI to simplify travel planning and provide sma
 - ☁️ Cloud database integration
 - ⚡ Fast and interactive experience
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Frontend
 - React.js / Next.js
 - Tailwind CSS
