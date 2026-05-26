@@ -1,9 +1,9 @@
-AI Travel Itinerary Planner 🌍✈️
+## AI Travel Itinerary Planner 🌍✈️
 
 An AI-powered travel planning application that generates personalized trip itineraries based on user preferences, budget, duration, and destination. 
 This project leverages Generative AI to simplify travel planning and provide smart recommendations for accommodations, attractions, activities, and daily schedules.
 
-🚀 Features
+## 🚀 Features
 🧠 AI-generated personalized travel itineraries
 📍 Destination-based trip recommendations
 💰 Budget-friendly planning suggestions
@@ -15,7 +15,7 @@ This project leverages Generative AI to simplify travel planning and provide sma
 ☁️ Cloud database integration
 ⚡ Fast and interactive experience
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Frontend
 React.js / Next.js
 Tailwind CSS
